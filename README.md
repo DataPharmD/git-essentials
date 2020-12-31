@@ -6,4 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mollis quis fel
 
 
 ## new stuff
-In sagittis lacinia lacus vel laoreet. Mauris at dolor a mi convallis venenatis. Ut lacinia mattis erat eu auctor. Proin in ligula eu velit tincidunt venenatis. Donec tortor orci, malesuada suscipit viverra in, bibendum eget felis.
+In sagittis lacinia lacus vel laoreet. Mauris at dolor a mi convallis venenatis. Ut lacinia mattis erat eu auctor. Proin in ligula eu velit tincidunt venenatis. Donec tortor orci.
